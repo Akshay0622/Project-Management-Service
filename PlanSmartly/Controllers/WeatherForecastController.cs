@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PlanSmartly.Controllers;
+namespace Plansmartly.Controllers;
 
 [ApiController]
 [Route("[controller]")]

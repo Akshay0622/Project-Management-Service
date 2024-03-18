@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GithubAkshay0622\\PlanSmartly\\PlanSmartly.csproj": {}
+    "D:\\GithubAkshay0622\\Project-Management-Service\\Plansmartly\\Plansmartly.csproj": {}
   },
   "projects": {
-    "D:\\GithubAkshay0622\\PlanSmartly\\PlanSmartly.csproj": {
+    "D:\\GithubAkshay0622\\Project-Management-Service\\Plansmartly\\Plansmartly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GithubAkshay0622\\PlanSmartly\\PlanSmartly.csproj",
-        "projectName": "PlanSmartly",
-        "projectPath": "D:\\GithubAkshay0622\\PlanSmartly\\PlanSmartly.csproj",
+        "projectUniqueName": "D:\\GithubAkshay0622\\Project-Management-Service\\Plansmartly\\Plansmartly.csproj",
+        "projectName": "Plansmartly",
+        "projectPath": "D:\\GithubAkshay0622\\Project-Management-Service\\Plansmartly\\Plansmartly.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\GithubAkshay0622\\PlanSmartly\\obj\\",
+        "outputPath": "D:\\GithubAkshay0622\\Project-Management-Service\\Plansmartly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

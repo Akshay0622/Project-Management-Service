@@ -1,4 +1,4 @@
-namespace PlanSmartly;
+namespace Plansmartly;
 
 public class WeatherForecast
 {
