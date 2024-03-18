@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VNPoQJD4xxcsNwbAYkb8J4r9Gc+vXZ4tEh49SMNGb1Mxk+mHS40/fFOUkn7mY5hyhS1Lhvrp5ebDNZ8qFHydIQ==",
+  "dgSpecHash": "lVInv+t7CgjrHB8T8C0NrbXowaxQee9bv2n2o/c8qfgFXV57AGFPbUUYebsz8lFx08cjCNAr0zDIN3jthFFStg==",
   "success": true,
-  "projectFilePath": "D:\\GithubAkshay0622\\Project-Management-Service\\Plansmartly\\Plansmartly.csproj",
+  "projectFilePath": "D:\\GithubAkshay0622\\Project-Management-Service\\PlanSmartly\\PlanSmartly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
